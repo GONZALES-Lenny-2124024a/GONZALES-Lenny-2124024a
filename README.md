@@ -19,15 +19,15 @@
 
 <h1 align="center">My Statistics 🚀</h1>
 
-<p><img align=left src="https://github-readme-stats.vercel.app/api?username=LennyGonzales&show_icons=true&theme=tokyonight" alt="github stats" width="300" /></p>
-<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=LennyGonzales&theme=tokyonight" alt="mystreak" alt="ovi" width="300" /></p>
+<p><img align=left src="https://github-readme-stats.vercel.app/api?username=LennyGonzales&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
+<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=LennyGonzales&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 <br><br><br><br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h1 align="center">My Skills 📝</h1>
 
-<a target="_blank"><img align="left" justify-content="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyGonzales&theme=tokyonight&layout=compact"/></p></a>
+<a target="_blank"><img align="left" justify-content="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyGonzales&theme=tokyonight&layout=compact"/></p></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
