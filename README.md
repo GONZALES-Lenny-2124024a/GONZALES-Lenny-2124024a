@@ -27,7 +27,7 @@
 
 <h1 align="center">My Skills 📝</h1>
 
-<a target="_blank"><img align="left" justify-content="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyGonzales&theme=tokyonight&layout=compact"/></p></a>
+<a target="_blank"><img align="left" justify-content="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyGonzales&theme=tokyonight&layout=compact"/></p></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
