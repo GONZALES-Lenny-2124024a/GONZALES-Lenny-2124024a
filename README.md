@@ -7,22 +7,22 @@
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 in **IUT Aix-Marseille, France**
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 on **secret project**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 on **cybersecurity**
-- 💼 I'm looking for a **work-study program** for the year **2023-2024**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **co-workers** to grind
+- 💼 I'm currently in a **work-study program** for the year **2023-2024**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">My Statistics 🚀</h1>
 
-<p><img align=left src="https://github-readme-stats.vercel.app/api?username=LennyGonzales&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
-<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=LennyGonzales&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
+<p><img align=left src="https://github-readme-stats.vercel.app/api?username=GONZALES-Lenny-2124024a&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
+<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=GONZALES-Lenny-2124024a&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 <br><br><br><br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h1 align="center">My Skills 📝</h1>
 
-<a target="_blank"><img align="left" justify-content="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyGonzales&theme=tokyonight&layout=compact"/></p></a>
+<a target="_blank"><img align="left" justify-content="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GONZALES-Lenny-2124024a&theme=tokyonight&layout=compact"/></p></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -42,5 +42,5 @@
 
 
 ------
-Credit: [LennyGonzales](https://github.com/LennyGonzales) <br>
+Credit: [GONZALES-Lenny-2124024a](https://github.com/GONZALES-Lenny-2124024a) <br>
 Last Edited on: 02/03/2022
